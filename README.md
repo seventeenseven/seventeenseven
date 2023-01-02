@@ -3,7 +3,8 @@ alert("My name is Alexandra Jane, Welcome !")
 let jane = "Software Developper"
 
 function talk(){                                                                                                   
-    let frameworks = ["Django", "Flask", "ReactJS"]                                                                   jane += ` doing great on ${frameworks[0]} ${frameworks[1]} and ${frameworks[2]}`                               
+    let frameworks = ["Django", "Flask", "ReactJS"]                                                               
+    jane += ` doing great on ${frameworks[0]} ${frameworks[1]} and ${frameworks[2]}`                               
     console.log(jane)                                                                                             
     if(Math.floor(Math.log10(Math.cbrt(1707))) == 1){                                                             
         console.log("Python and Javascript are my besties")                                                       
