@@ -1,5 +1,5 @@
-//Hey i'm Jane
-alert("My name is Alexandra Jane, Welcome !")
+//Hey i'm Jane                                                                                                      
+alert("My name is Alexandra Jane, Welcome !")                                                                      
 let jane = "Software Developper"
 
 function talk(){
