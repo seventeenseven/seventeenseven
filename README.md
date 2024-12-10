@@ -1,16 +1,42 @@
-//Hey i'm Jane                                                                                                      
-alert("My name is Alexandra Jane, Welcome !")                                                                      
-let jane = "Software Developper"
+# 👋 Hello, World! I'm Alexandra Jane 🌟  
+🌍 *Based in Paris, France*  
 
-function talk(){                                                                                                   
-    let frameworks = ["Django", "Flask", "ReactJS"]                                                               
-    jane += ` doing great on ${frameworks[0]} ${frameworks[1]} and ${frameworks[2]}`                               
-    console.log(jane)                                                                                             
-    if(Math.floor(Math.log10(Math.cbrt(1707))) == 1){                                                             
-        console.log("Python and Javascript are my besties")                                                       
-        alert("PS: don\'t tell my human bestie, she\'s jealous")                                                   
-    }}                                                                                                               
-talk()                                                                                                              
+> 🚀 “Code is my canvas, data is my brush, and innovation is my masterpiece.”  
 
-//UPDATE 2023                                                                                                     
-console.log("****MASTER IN DATA ENGINEERING AND AI****")
+---
+
+## 👩‍💻 **Who Am I?**  
+🎓 **Master in Data Engineering and AI** *(Graduated: 2023)*  
+🔍 Specializing in **Data Visualization**, **Machine Learning**, and **Full-stack Development**.  
+🛠️ Passionate about turning complex data into actionable insights and scalable solutions.  
+🧠 Constantly learning new tools and technologies to stay ahead in the tech world.  
+
+---
+
+## 💡 **Geeky Intro**  
+```bash
+$ whoami  
+alexandrajane-bitom  
+
+$ cat ~/skills.txt  
+- Python 🐍  
+- JavaScript 🌟  
+- Django 🌱 Flask 🌾 FastAPI 🚀
+- Spark 📊 Airflow
+- ReactJS ⚛️ Node.js 🟩 MongoDB 🌿  
+- SQL 🛢️ Power BI 📊
+- Machine Learning
+```
+📂 Recent Projects
+
+🌟 Big Data Model Verification Tool
+Tech Stack: Java SpringBoot, Docker, Jenkins, Azure Kubernetes Service.
+Highlights: Automated schema verification and backward compatibility testing for large-scale data models.
+🌟 Personal Portfolio Website
+Tech Stack: ReactJS, Tailwind CSS, and Firebase.
+Highlights: Interactive portfolio showcasing my work and achievements.
+🌟 Machine Learning Pipeline
+Tech Stack: PyTorch, Scikit-learn, FastAPI.
+Highlights: Robust ML pipeline for predictive analytics and data processing.
+
+🌟 Let's Connect!
