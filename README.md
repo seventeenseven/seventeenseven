@@ -31,12 +31,12 @@ $ cat ~/skills.txt
 
 🌟 Big Data Model Verification Tool
 Tech Stack: Java SpringBoot, Docker, Jenkins, Azure Kubernetes Service.
-Highlights: Automated schema verification and backward compatibility testing for large-scale data models.
+Highlights: Automated schema verification and backward compatibility testing for large-scale data models. \
 🌟 Personal Portfolio Website
 Tech Stack: ReactJS, Tailwind CSS, and Firebase.
-Highlights: Interactive portfolio showcasing my work and achievements.
+Highlights: Interactive portfolio showcasing my work and achievements.\
 🌟 Machine Learning Pipeline
 Tech Stack: PyTorch, Scikit-learn, FastAPI.
-Highlights: Robust ML pipeline for predictive analytics and data processing.
+Highlights: Robust ML pipeline for predictive analytics and data processing.\
 
 🌟 Let's Connect!
