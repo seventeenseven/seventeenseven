@@ -37,6 +37,6 @@ Tech Stack: ReactJS, Tailwind CSS, and Firebase.
 Highlights: Interactive portfolio showcasing my work and achievements.\
 🌟 Machine Learning Pipeline
 Tech Stack: PyTorch, Scikit-learn, FastAPI.
-Highlights: Robust ML pipeline for predictive analytics and data processing.\
+Highlights: Robust ML pipeline for predictive analytics and data processing.
 
 🌟 Let's Connect!
